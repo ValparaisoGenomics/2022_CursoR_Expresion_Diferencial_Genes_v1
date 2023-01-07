@@ -1,4 +1,4 @@
-# Curso de análisis de datos con R e investigación reproducible para Biociencias.
+# Curso Expresión diferencial de genes e investigación reproducible con R
   
 Fecha de realización: 08 de octubre – 10 de noviembre de 2022.    
   
